@@ -8,7 +8,7 @@
 
 ## Задание
 Задание размещено в папке **task** в файле [README.md](task/README.md).
-
+**Статический сайт - [`ОТКРЫТЬ`](https://Karench0.github.io/project_practice/site/index.html)**
 ## Вариативная часть задания
 
 Создание математической игры на java "Игра жизни"
