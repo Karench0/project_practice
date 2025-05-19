@@ -13,14 +13,15 @@
 ```
 /
 ├── README.md
-├── docs/
+|
+├──project
+|   ├──GameOfLifeInfo.md
+|   ├──project_info.md
+|   └──project_members.md
+├── docx/
 │   ├── README.md
 │   ├── practice_report_template.md
-│   └── ...
-├── reports/
-│   ├── README.md
-│   ├── report_mkrtchyan.pdf
-│   └── ...
+│   └── report_mkrtchyan.pdf
 ├── site/
 │   ├── index.html
 │   ├── css/
