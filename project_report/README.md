@@ -16,7 +16,7 @@
 Задание размещено в папке **task** в файле [README.md](task/README.md).
 
 **Статический сайт:**  
-[![Открыть сайт](https://img.shields.io/badge/%F0%9F%9A%80%20Открыть%20сайт-blue)](https://Karench0.github.io/project_practice/site/index.html)
+[![Открыть сайт](https://img.shields.io/badge/%F0%9F%9A%80%20Открыть%20сайт-blue)](https://Karench0.github.io/project_practice/site_project_practice/index.html)
 
 ---
 
