@@ -65,6 +65,7 @@ body {
     font-family: 'Orbitron', sans-serif;
     cursor: pointer;
     transition: transform 0.3s ease;
+    color: white;
 }
 
 /* Адаптивность */
@@ -216,8 +217,8 @@ body {
     background: rgba(0, 243, 255, 0.1);
 }
 
-.steam-link { color: #1b2838 }
-.vkplay-link { color: #07f }
+.steam-link { color: white; }
+.vkplay-link { color: white; }
 
 .tg-button {
     display: inline-flex;
@@ -227,6 +228,7 @@ body {
     background: #0088cc;
     border-radius: 4px;
     margin-top: 1rem;
+    color: white;
 }
 
 .partner-logo {
