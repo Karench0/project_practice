@@ -14,11 +14,11 @@
 /
 ├── README.md
 |
-├──project
+├──docs/
 |   ├──GameOfLifeInfo.md
 |   ├──project_info.md
 |   └──project_members.md
-├── docx/
+├── report/
 │   ├── README.md
 │   ├── practice_report_template.md
 │   └── report_mkrtchyan.pdf
